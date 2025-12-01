@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "インビジブル (COVER)",
+  "base_artist": "あらき",
+  "createdAt": "2025-12-01T12:46:09.532740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インビジブル feat.松下",
+      "artist": "KEMU",
+      "has_synced": true,
+      "path": "select/01_インビジブル_feat.松下_KEMU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "Kemu",
+      "has_synced": true,
+      "path": "select/02_インビジブル_Kemu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "kemu feat.GUMI",
+      "has_synced": true,
+      "path": "select/03_インビジブル_kemu_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "天野月",
+      "has_synced": false,
+      "path": "select/04_インビジブル_天野月.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "GUMI",
+      "has_synced": true,
+      "path": "select/05_インビジブル_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/06_インビジブル_kemu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/07_インビジブル_kemu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "松下",
+      "has_synced": true,
+      "path": "select/08_インビジブル_松下.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "kemu Feat. GUMI, 鏡音リン",
+      "has_synced": true,
+      "path": "select/09_インビジブル_kemu_Feat._GUMI,_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インビジブル (feat․ ピコ&まふまふ)",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/10_インビジブル_(feat._ピコ&まふまふ)_kemu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インビジブル (feat․ 鏡音リン, GUMI)",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/11_インビジブル_(feat._鏡音リン,_GUMI)_kemu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インビジブル",
+      "artist": "kemu feat.GUMI、鏡音リン",
+      "has_synced": true,
+      "path": "select/12_インビジブル_kemu_feat.GUMI、鏡音リン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インビジブル",
+      "artist": "ピコ",
+      "has_synced": false,
+      "path": "select/pl_01_インビジブル_ピコ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "インビジブル",
+      "artist": "ピコ",
+      "has_synced": false,
+      "path": "select/pl_02_インビジブル_ピコ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "invisible",
+      "artist": "ピコ",
+      "has_synced": false,
+      "path": "select/pl_03_invisible_ピコ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "インビジブル",
+      "artist": "ピコ",
+      "has_synced": false,
+      "path": "select/pl_04_インビジブル_ピコ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "インビジブル",
+      "artist": "ピコ",
+      "has_synced": false,
+      "path": "select/pl_05_インビジブル_ピコ.txt"
+    }
+  ]
+}
